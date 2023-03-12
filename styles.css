@@ -1,0 +1,67 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-image: url(https://cdn.freecodecamp.org/curriculum/css-cafe/beans.jpg);
+padding: 20%;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+hr{
+    border: solid 2px rgb(183, 14, 14);
+}
+
+.menu{
+    width: 80%;
+    background-color: burlywood;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+
+}
+.item p{
+    display: inline-block;
+     margin-top: 5px;
+     margin-bottom: 5px;
+     font-size: 18px;
+}
+
+.flavor{
+    text-align: left;
+    margin-left: 5px;
+    width: 85%;
+}
+
+h1, h2,.testo{
+    text-align: center;
+    padding-top: 5px;
+}
+
+h2{
+    margin: 10px;
+}
+
+.testo{
+    margin-bottom: 10px;
+}
+
+p, address{
+    text-align: center;
+}
+
+.info{
+    padding: 15px;
+}
+
+.price{
+    text-align: right;
+    width: 12%;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
