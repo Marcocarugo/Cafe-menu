@@ -6,8 +6,10 @@
 
 body{
     background-image: url(https://cdn.freecodecamp.org/curriculum/css-cafe/beans.jpg);
-padding: 20%;
-font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 20%;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 1200;
+    font-size: 20px;
 }
 
 hr{
@@ -16,7 +18,7 @@ hr{
 
 .menu{
     width: 80%;
-    background-color: burlywood;
+    background-color: rgb(218, 184, 140);
     margin-left: auto;
     margin-right: auto;
     padding: 20px;
